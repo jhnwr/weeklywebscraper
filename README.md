@@ -1,6 +1,8 @@
-# weeklywebscraper
+# Weekly Webscraper
 
-YouTube series scraping sites weekly
+YouTube series one web scraping projects in Python.
+
+---------------------------------------------------
 
 Week1 - REI backpacks https://youtu.be/aA4o98Xb8JU
 
